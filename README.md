@@ -12,6 +12,6 @@ A very simple and easy test to create a Hello World PWA with only HTML and Javas
 ###### PWA to apk
 - https://medium.com/appmaker-xyz/how-to-convert-pwa-to-an-android-app-f06bac5d2e29
 
-###### PWA to iOS (beta from the time of this commit)
+###### PWA to iOS (beta at the time of this commit)
 - https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc
 - https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945
