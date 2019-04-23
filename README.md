@@ -1,4 +1,4 @@
-# PWA-Test
+# hello-pwa
 A very simple and easy test to create a Hello World PWA with only HTML and Javascript. No required dependencies or third-party libraries. 
 
 ### Additional References:
