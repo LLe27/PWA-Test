@@ -1,6 +1,6 @@
 {
     "name": "Hello World",
-    "short_name": "HW",
+    "short_name": "Hello",
     "icons": [{
         "src": "img/favicons/hello-icon-128.png",
         "sizes": "128x128",
